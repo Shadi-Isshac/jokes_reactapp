@@ -30,8 +30,8 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 | Create React app and files for all components | H | 1 | 
 | Basic Navbar & Footer | H | 1 | 45min | |
 | Make joke API call, parse important data | H | 2 |
-| Display joke | H | 3 |
-| Create button to retrieve and display new joke| H | 1 |
+| Display joke | H | 2 |
+| Create button to retrieve and display new joke| H | 2 |
 
 
 ## Additional Libraries
