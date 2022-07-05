@@ -20,6 +20,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 - Fully functional, interactive, joke app
 
 ### Time/Priority Table
+
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Create React app and files for all components | H | 1 | 
