@@ -25,10 +25,10 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 - Fully functional, interactive, joke app
 
 
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Create React app and files for all components | H | 1 | 
-| Basic Navbar & Footer | H | 1 | 45min | |
+| Basic Navbar & Footer | H | 1 |
 | Make joke API call, parse important data | H | 2 |
 | Display joke | H | 2 |
 | Create button to retrieve and display new joke| H | 2 |
