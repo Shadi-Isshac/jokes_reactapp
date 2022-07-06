@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jokes_reactapp/static/css/main.0d1fd105.css",
+    "main.js": "/jokes_reactapp/static/js/main.ab9a4244.js",
+    "static/js/787.9657ecc2.chunk.js": "/jokes_reactapp/static/js/787.9657ecc2.chunk.js",
+    "static/media/comedyClub.jpeg": "/jokes_reactapp/static/media/comedyClub.f2cccaed1a14493c41ca.jpeg",
+    "static/media/logo.svg": "/jokes_reactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jokes_reactapp/index.html",
+    "main.0d1fd105.css.map": "/jokes_reactapp/static/css/main.0d1fd105.css.map",
+    "main.ab9a4244.js.map": "/jokes_reactapp/static/js/main.ab9a4244.js.map",
+    "787.9657ecc2.chunk.js.map": "/jokes_reactapp/static/js/787.9657ecc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d1fd105.css",
+    "static/js/main.ab9a4244.js"
+  ]
+}
