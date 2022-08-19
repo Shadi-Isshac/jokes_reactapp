@@ -1,8 +1,6 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { useState } from "react";
 import Greet from "./Components/Greet";
-import { Save } from "./Components/Save";
 import Jokes from "./Components/Jokes";
 import Punchline from "./Components/Punchline";
 const axios = require("axios");
@@ -43,10 +41,9 @@ function App() {
   return (
     <div className="App">
       <Greet />
-      <button onClick={getJoke}>I'm ready to laugh!</button>
-      <Save />
+      <button onClick={getJoke}>Click me for the setup!</button>
       <Jokes Joke={joke} />
-      <button onClick={showAnswer}>Answer</button>
+      <button onClick={showAnswer}>Click me for the punchline!</button>
       <Punchline Pineapples={punchLine} answer={answer} />
     </div>
   );
